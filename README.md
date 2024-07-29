@@ -9,3 +9,7 @@ This project demonstrates a pipeline for extracting, processing, and querying te
 - FAISS Indexing: Builds a FAISS index for efficient similarity search.
 - Query Matching: Finds the most similar text chunks to a user query.
 - Response Generation: Uses a transformer model to generate responses based on the most relevant chunks.
+
+## Parameters
+
+The PDFs must be uploaded to a folder called "PDFs" inside your /content on Google Colab. If you run the code locally, make sure you change it to your desired path.
