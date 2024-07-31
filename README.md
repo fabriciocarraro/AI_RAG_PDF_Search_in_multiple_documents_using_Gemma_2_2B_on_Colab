@@ -1,6 +1,6 @@
-# AI RAG - PDF Search in multiple documents on Colab
+# AI RAG - PDF Search in multiple documents using Gemma 2 2B on Colab
 
-This project demonstrates a pipeline for extracting, processing, and querying text data from PDF documents on Google Colab using natural language processing (NLP) techniques. The system allows users to input a query, which is then answered based on the content of the PDFs.
+This project demonstrates a pipeline for extracting, processing, and querying text data from PDF documents on Google Colab using natural language processing (NLP) techniques and Google's open-source model Gemma 2 2B. The system allows users to input a query, which is then answered based on the content of the PDFs.
 
 ## Features
 - PDF Text Extraction: Extracts text from PDFs using PyPDF2.
